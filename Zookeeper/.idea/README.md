@@ -1,0 +1,5 @@
+<p>This program is a simple Java application that simulates a virtual zoo. It displays six different animal habitats, and the user can select which habitat to view by entering a number from 0 to 5.</p>
+<p>The program uses string literals (introduced in Java 15) to store the ASCII art representations of each habitat. It also stores these strings in an array for easy access.</p>
+<p>The program then creates a Scanner object to read user input from the console. It uses a while loop to repeatedly prompt the user to enter a habitat number or exit the program. If the user enters "exit", the program will break out of the loop and end.</p>
+<p>If the user enters a valid habitat number, the program will use the number to access the corresponding string in the array and display it to the console.</p>
+<p>Overall, this program provides a simple example of how to use string literals and arrays in Java, as well as how to read user input from the console using a Scanner object.</p>
