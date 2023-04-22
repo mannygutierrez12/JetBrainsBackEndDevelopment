@@ -1,5 +1,3 @@
-Sure, here's an example of the same content in HTML format:
-
 <h1>SimpleBot Java Project</h1>
 
 <p>This is a Java project for a simple chatbot called SimpleBot. The chatbot will greet you, ask for your name, guess your age, count to any number you want, and test your programming knowledge.</p>
